@@ -1,0 +1,31 @@
+body {
+  font-size: 20px;
+  margin-top: 3rem;
+  color: black;
+  background-image: url('https://cdn.wallpapersafari.com/85/51/ajVOLt.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  background-color:rgba(255, 255, 255, 0.65);
+}
+
+h2 {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 35px;
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.nav-item .nav-link {
+  color: black;
+  font-size: 15px;
+}
